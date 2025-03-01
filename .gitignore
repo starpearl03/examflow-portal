@@ -1,0 +1,8 @@
+vendor/
+.env
+composer.lock
+*.log
+uploads/
+cache/
+.DS_Store
+*.swp
