@@ -4,11 +4,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kudzaiprichard/online-assessment-portal">
+  <a href="https://github.com/starpearl03/examflow-portal">
     <img src="images/logo/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Online Assessment Portal</h3>
+  <h3 align="center">ExamFlow Portal</h3>
 
   <p align="center">
     An online portal for assessing students on internship 
@@ -141,7 +141,7 @@ You should have the below software installed in your pc :
 2. Clone the repo
 
    ```sh
-   git clone https://github.com/kudzaiprichard/online-assessment-portal
+   git clone https://github.com/starpearl03/examflow-portal
    ```
 3. Make sure you copy the project to 
     ```
@@ -203,9 +203,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-> Kudzai P Matizirofa - [linkedin.com/in/kudzai-prichard](https://linkedin.com/in/kudzai-prichard) - <kudzaiprichard@gmail.com>
+> Kudzai P Matizirofa - [linkedin.com/in/kudzai-prichard](https://linkedin.com/in/kudzai-prichard) - <starpearl03@gmail.com>
 
-Project Link: [https://github.com/kudzaiprichard/online-assessment-portal](https://github.com/kudzaiprichard/online-assessment-portal)
+Project Link: [https://github.com/starpearl03/examflow-portal](https://github.com/starpearl03/examflow-portal)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
